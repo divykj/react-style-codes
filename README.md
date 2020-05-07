@@ -1,13 +1,15 @@
 # react-style-codes
 
-![](https://img.shields.io/github/languages/top/divykj/react-style-codes) ![](https://img.shields.io/github/workflow/status/divykj/react-style-codes/Release%20Package?label=build) ![](https://img.shields.io/github/workflow/status/divykj/react-style-codes/Integration%20Test?label=tests) ![](https://img.shields.io/codacy/grade/4dc38bb6a59042be96dc2a71e7cdc0e3) ![](https://img.shields.io/codacy/coverage/4dc38bb6a59042be96dc2a71e7cdc0e3)
+![](https://img.shields.io/github/workflow/status/divykj/react-style-codes/Release%20Package?label=build) ![](https://img.shields.io/github/workflow/status/divykj/react-style-codes/Integration%20Test?label=tests) ![](https://img.shields.io/codacy/grade/4dc38bb6a59042be96dc2a71e7cdc0e3) ![](https://img.shields.io/codacy/coverage/4dc38bb6a59042be96dc2a71e7cdc0e3)
+
+![](https://img.shields.io/npm/v/@divykj/react-style-codes) ![](https://img.shields.io/npm/dt/@divykj/react-style-codes) ![](https://img.shields.io/bundlephobia/min/@divykj/react-style-codes) ![](https://img.shields.io/github/languages/top/divykj/react-style-codes)
 
 > Easier react styling using codes.
 
 ## Installation
 
 ```sh
-npm i react-style-codes
+npm i @divykj/react-style-codes
 ```
 
 ## Usage
